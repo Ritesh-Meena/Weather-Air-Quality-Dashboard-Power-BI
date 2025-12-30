@@ -1,4 +1,6 @@
 # Weather & Air Quality Dashboard (Power BI)
+<img width="1327" height="742" alt="weather Dashboard screenshot" src="https://github.com/user-attachments/assets/6b4aea60-aba0-45ee-a5df-9cca23608852" />
+<img width="1325" height="742" alt="weather Dashboard screenshot blue" src="https://github.com/user-attachments/assets/a5bc5c1b-21ec-4f4a-818e-6629a781afe3" />
 
 ## Project Overview
 
